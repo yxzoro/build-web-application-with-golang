@@ -1,15 +1,19 @@
 # Multiple Language Versions
 
+* [(HTML - PDF) on GitBook](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang)
+* [Deutsch](de/preface.md)
 * [English](en/preface.md)
-* [French](fr/preface.md)
-* [Spanish](es/preface.md)
-* [中文](zh/preface.md)
-* [日本語](ja/preface.md)
-* [Turkish](tr/preface.md)
+* [Español](es/preface.md)
+* [Français](fr/preface.md)
 * [Português - Brasil](pt-br/preface.md)
-* [German](de/preface.md)
 * [Русский](ru/preface.md)
+* [Türkçe](tr/preface.md)
 * [বাংলা](bn/preface.md)
+* [日本語](ja/preface.md)
+* [简体中文](zh/preface.md)
+* [正體中文](zh-tw/preface.md)
+* [پارسی](fa/preface.md)
+* [ภาษาไทย](th/preface.md)
 
 # Donate
 
